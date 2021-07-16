@@ -1,5 +1,3 @@
-#Lets see again
-
 from datetime import datetime
 import pyttsx3 
 import speech_recognition as sr  
